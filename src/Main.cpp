@@ -4,7 +4,7 @@
 int main(int argc, char** argv ) {
     cv::Mat image;
     image = cv::imread( argv[1], 1 );
-    
+
     int width = image.cols;
     int height = image.rows;
 

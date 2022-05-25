@@ -51,3 +51,4 @@ HelloWorld
 
 out/build/
 python/
+.cache/

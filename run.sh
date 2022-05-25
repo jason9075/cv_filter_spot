@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd out/build/ ; ./HelloWorld
+cd out/build/ ; ./Main
 

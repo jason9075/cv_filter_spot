@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cd out/build/ ; make 
+cd out/build/ ; make -j8 
